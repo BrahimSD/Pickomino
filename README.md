@@ -8,12 +8,13 @@ Le jeu est composé de :
 8 dés
 Pickominos
 Les Pickominos ont une valeur et un nombre de point. Les Pickominos sont les suivant (la valeur en haut, le nombre de points en bas) :
-
+```
 ┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
 │21││22││23││24││25││26││27││28││29││30││31││32││33││34││35││36│
 ├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤├──┤
 │ 1││ 1││ 1││ 1││ 2││ 2││ 2││ 2││ 3││ 3││ 3││ 3││ 4││ 4││ 4││ 4│
 └──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+```
 Les valeurs sont le total des dés qu'il faut effectuer pour récupérer le Pickomino.
 Chaque joueur a une pile de Pickominos devant lui. Au début de la partie les piles des joueurs sont vides et les pickominos sont placés faces visibles au milieu de la table.
 
